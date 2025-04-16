@@ -34,6 +34,7 @@ bash
 git clone https://github.com/your-username/task-tracker.git
 cd task-tracker
 
+---
 
 ## 🐧 Install on Linux (Ubuntu/Debian)
 
