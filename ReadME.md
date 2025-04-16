@@ -31,8 +31,8 @@ Track your tasks with style — includes toast notifications, autosave to JSON, 
 ### 1. Clone the repo
 
 bash
-- git clone https://github.com/your-username/task-tracker.git
-- cd task-tracker
+- git clone https://github.com/niicommet01/Task-Tracker-App.git
+- cd Task-Tracker-App
 
 ---
 
