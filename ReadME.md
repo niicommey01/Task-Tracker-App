@@ -43,3 +43,9 @@ You can install Task Tracker with the .deb package:
 - wget https://github.com/niicommey01/Task-Tracker-App/releases/download/v1.0/task-tracker_1.0_amd64.deb
 - sudo dpkg -i task-tracker_1.0_amd64.deb
 
+
+---
+
+## 📋 License
+
+This project is licensed under the [MIT License](LICENSE).
