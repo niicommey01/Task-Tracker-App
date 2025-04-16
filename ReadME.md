@@ -31,8 +31,8 @@ Track your tasks with style — includes toast notifications, autosave to JSON, 
 ### 1. Clone the repo
 
 bash
-git clone https://github.com/your-username/task-tracker.git
-cd task-tracker
+- git clone https://github.com/your-username/task-tracker.git
+- cd task-tracker
 
 ---
 
@@ -40,6 +40,6 @@ cd task-tracker
 
 You can install Task Tracker with the .deb package:
 
-wget https://github.com/niicommey01/Task-Tracker-App/releases/download/v1.0/task-tracker_1.0_amd64.deb
-sudo dpkg -i task-tracker_1.0_amd64.deb
+- wget https://github.com/niicommey01/Task-Tracker-App/releases/download/v1.0/task-tracker_1.0_amd64.deb
+- sudo dpkg -i task-tracker_1.0_amd64.deb
 
