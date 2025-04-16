@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Task Tracker
+Comment=A beautiful little to-do app
+Exec="/home/nii01/PycharmProjects/pythonProject/Playing Around/PyGUI/dist/task-tracker_app/task-tracker_app"
+Icon="/home/nii01/PycharmProjects/pythonProject/Playing Around/PyGUI/th-1828655096.png"
+Terminal=false
+Type=Application
+Categories=Utility;Productivity;

@@ -1,0 +1,13 @@
+# Ignore build and distribution folders
+dist/
+build/
+*.spec
+!task-tracker_app.spec
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore virtual environment
+venv/
