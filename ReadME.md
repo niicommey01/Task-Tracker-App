@@ -40,7 +40,7 @@ bash
 
 You can install Task Tracker with the .deb package:
 
-[![Install on Linux](https://img.shields.io/badge/Install%20on-Linux-2EC866?logo=linux&logoColor=white&style=for-the-badge)]([https://github.com/niicommey01/Task-Tracker-App/releases/download/v1.0/task-tracker_1.0_amd64.deb](https://github.com/niicommey01/Task-Tracker-App/releases/tag/v1.0))
+[![Install on Linux](https://img.shields.io/badge/Install%20on-Linux-2EC866?logo=linux&logoColor=white&style=for-the-badge)]([https://github.com/niicommey01/Task-Tracker-App/releases/download/v1.0/task-tracker_1.0_amd64.deb)
 
 ---
 ## 🖼 Install on Windows (10/11)
