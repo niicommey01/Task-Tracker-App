@@ -26,16 +26,6 @@ Track your tasks with style — includes toast notifications, autosave to JSON, 
 
 ---
 
-## 🚀 Getting Started (Development)
-
-### 1. Clone the repo
-
-bash
-- git clone https://github.com/niicommet01/Task-Tracker-App.git
-- cd Task-Tracker-App
-
----
-
 ## 🐧 Install on Linux (Ubuntu/Debian)
 
 You can install Task Tracker with the .deb package:
