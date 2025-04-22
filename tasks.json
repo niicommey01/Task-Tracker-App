@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "text": "money ",
+        "completed": false
+    },
+    {
+        "text": "glory ",
+        "completed": false
+    },
+    {
+        "text": "read",
+        "completed": false
+    },
+    {
+        "text": "walk ",
+        "completed": false
+    },
+    {
+        "text": "touch grass",
+        "completed": false
+    },
+    {
+        "text": "tweet",
+        "completed": false
+    }
+]
