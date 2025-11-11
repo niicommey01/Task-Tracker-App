@@ -1,13 +1,50 @@
-# Ignore build and distribution folders
-dist/
-build/
-*.spec
-!task-tracker_app.spec
-
-# Ignore Python bytecode files
-*.pyc
-*.pyo
+# Python
 __pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
 
-# Ignore virtual environment
+# Virtualenvs
 venv/
+.venv/
+env/
+
+# Build / packaging
+build/
+dist/
+*.deb
+*.egg
+*.whl
+*.sha256
+*.tar.gz
+packaging/build_*/
+
+# PyInstaller / binaries
+dist_task_tracker/
+task-tracker_app
+*_EXE/
+*.AppImage
+
+# PyCharm / IDEs
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+
+# Secrets (never check in)
+.env
+*.pem
+*.key
+*.p12
+credentials.json
