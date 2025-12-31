@@ -17,7 +17,7 @@ def resource_path(relative_path):
 
 
 class MainWindow(QMainWindow):
-    def __init__(self):
+    def __init__(self, load_tasks_on_init=True):
         super().__init__()
         self.setWindowTitle("Task Tracker")
         self.setGeometry(700, 300, 500, 500)
@@ -59,7 +59,8 @@ class MainWindow(QMainWindow):
         # self.task_list_widget.clearSelection(), QListWidget.focusOutEvent(self.task_list_widget, event))
 
         self.task_file = "tasks.json"
-        self.load_tasks()
+        if load_tasks_on_init:
+            self.load_tasks()
 
         self.toast_queue = []
 
